@@ -8,7 +8,7 @@ using ShopSim.Model.Models;
 
 namespace ShopSim.Data.Repositories
 {
-    public interface IFirstNumberRepository
+    public interface IFirstNumberRepository : IRepository<FirstNumber>
     {
 
     }
