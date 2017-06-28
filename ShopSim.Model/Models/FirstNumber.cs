@@ -7,13 +7,14 @@ namespace ShopSim.Model.Models
     public class FirstNumber
     {
         [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int ID { set; get; }
 
         [Required]
         public int NetworkID { set; get; }
 
         [ForeignKey("NetworkID")]
-        public virtual MenuGroup MenuGroup { set; get; }
+        public virtual SimNetwork SimNetwork { set; get; }
 
         [Required]
         public int Number { set; get; }

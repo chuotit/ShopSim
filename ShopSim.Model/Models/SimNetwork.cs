@@ -9,12 +9,15 @@ namespace ShopSim.Model.Models
     public class SimNetwork
     {
         [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int ID { set; get; }
 
         [Required]
         public string Name { set; get; }
 
         [Required]
+        [MaxLength(255)]
+        [Column(TypeName = "varchar")]
         public string Alias { set; get; }
 
         public string Image { set; get; }
