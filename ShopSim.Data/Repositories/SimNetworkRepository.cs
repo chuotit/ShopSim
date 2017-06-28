@@ -5,7 +5,7 @@ using ShopSim.Model.Models;
 
 namespace ShopSim.Data.Repositories
 {
-    public interface ISimNetworkRepository
+    public interface ISimNetworkRepository : IRepository<SimNetwork>
     {
         IEnumerable<SimNetwork> GetByAlias(string alias);
     }

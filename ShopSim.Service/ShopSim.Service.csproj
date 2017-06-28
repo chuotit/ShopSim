@@ -40,8 +40,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SimNetworkService.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ShopSim.Common\ShopSim.Common.csproj">
