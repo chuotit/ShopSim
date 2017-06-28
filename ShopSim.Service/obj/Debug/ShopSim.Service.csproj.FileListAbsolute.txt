@@ -1,0 +1,13 @@
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Service\bin\Debug\ShopSim.Service.dll
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Service\bin\Debug\ShopSim.Service.pdb
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Service\bin\Debug\ShopSim.Common.dll
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Service\bin\Debug\ShopSim.Data.dll
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Service\bin\Debug\ShopSim.Model.dll
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Service\bin\Debug\ShopSim.Common.pdb
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Service\bin\Debug\ShopSim.Data.pdb
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Service\bin\Debug\ShopSim.Data.dll.config
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Service\bin\Debug\ShopSim.Model.pdb
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Service\bin\Debug\ShopSim.Model.dll.config
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Service\obj\Debug\ShopSim.Service.csprojResolveAssemblyReference.cache
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Service\obj\Debug\ShopSim.Service.dll
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Service\obj\Debug\ShopSim.Service.pdb
