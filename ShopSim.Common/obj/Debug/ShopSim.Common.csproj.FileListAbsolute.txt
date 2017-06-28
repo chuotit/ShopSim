@@ -2,3 +2,4 @@ E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\P
 E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Common\bin\Debug\ShopSim.Common.pdb
 E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Common\obj\Debug\ShopSim.Common.dll
 E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Common\obj\Debug\ShopSim.Common.pdb
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Common\obj\Debug\ShopSim.Common.csprojResolveAssemblyReference.cache
