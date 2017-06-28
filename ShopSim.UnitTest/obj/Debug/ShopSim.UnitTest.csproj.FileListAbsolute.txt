@@ -71,3 +71,5 @@ E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\P
 E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.UnitTest\obj\Debug\ShopSim.UnitTest.csprojResolveAssemblyReference.cache
 E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.UnitTest\obj\Debug\ShopSim.UnitTest.dll
 E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.UnitTest\obj\Debug\ShopSim.UnitTest.pdb
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.UnitTest\bin\Debug\EntityFramework.dll
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.UnitTest\bin\Debug\EntityFramework.xml
