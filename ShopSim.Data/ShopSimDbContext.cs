@@ -18,6 +18,7 @@ namespace ShopSim.Data
 
         public DbSet<SimNetwork> SimNetworks { set; get; }
         public DbSet<FirstNumber> FirstNumbers { set; get; }
+        public DbSet<Error> Errors { set; get; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {

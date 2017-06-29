@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using ShopSim.Data.Infrastructure;
 using ShopSim.Data.Repositories;
 using ShopSim.Model.Models;
@@ -11,17 +8,23 @@ namespace ShopSim.Service
 {
     public interface ISimNetworkService
     {
-        void Add(SimNetwork simNetwork);
+        SimNetwork Add(SimNetwork simNetwork);
+
         void Update(SimNetwork simNetwork);
-        void Delete(int id);
+
+        SimNetwork Delete(int id);
+
         IEnumerable<SimNetwork> GetAll();
+
         SimNetwork GetById(int id);
+
         void SaveChanges();
     }
+
     public class SimNetworkService : ISimNetworkService
     {
-        ISimNetworkRepository _simNetworkRepository;
-        IUnitOfWork _unitOfWork;
+        private ISimNetworkRepository _simNetworkRepository;
+        private IUnitOfWork _unitOfWork;
 
         public SimNetworkService(ISimNetworkRepository simNetworkRepository, IUnitOfWork unitOfWork)
         {
@@ -29,19 +32,19 @@ namespace ShopSim.Service
             this._unitOfWork = unitOfWork;
         }
 
-        public void Add(SimNetwork simNetwork)
+        public SimNetwork Add(SimNetwork simNetwork)
         {
-            _simNetworkRepository.Add(simNetwork);
+            return _simNetworkRepository.Add(simNetwork);
         }
 
-        public void Delete(int id)
+        public SimNetwork Delete(int id)
         {
-            _simNetworkRepository.Delete(id);
+            return _simNetworkRepository.Delete(id);
         }
 
         public IEnumerable<SimNetwork> GetAll()
         {
-            return _simNetworkRepository.GetAll(new string[] { "FirstNumbers" });
+            return _simNetworkRepository.GetAll();
         }
 
         public SimNetwork GetById(int id)

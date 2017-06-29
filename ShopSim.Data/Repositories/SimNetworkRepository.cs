@@ -10,7 +10,7 @@ namespace ShopSim.Data.Repositories
         IEnumerable<SimNetwork> GetByAlias(string alias);
     }
 
-    internal class SimNetworkRepository : RepositoryBase<SimNetwork>, ISimNetworkRepository
+    public class SimNetworkRepository : RepositoryBase<SimNetwork>, ISimNetworkRepository
     {
         public SimNetworkRepository(IDbFactory dbFactory) : base(dbFactory)
         {
