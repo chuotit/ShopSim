@@ -85,3 +85,16 @@ E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\P
 E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Web\bin\ShopSim.Service.pdb
 E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Web\bin\EntityFramework.xml
 E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Web\bin\EntityFramework.SqlServer.xml
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Web\bin\Autofac.dll
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Web\bin\Autofac.Integration.Mvc.dll
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Web\bin\Autofac.Integration.WebApi.dll
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Web\bin\Microsoft.Owin.dll
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Web\bin\Owin.dll
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Web\bin\Autofac.xml
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Web\bin\Autofac.Integration.Mvc.xml
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Web\bin\Autofac.Integration.WebApi.xml
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Web\bin\Microsoft.Owin.xml
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Web\bin\AutoMapper.dll
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Web\bin\AutoMapper.xml

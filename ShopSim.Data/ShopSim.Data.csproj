@@ -11,6 +11,7 @@
     <AssemblyName>ShopSim.Data</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -58,8 +59,13 @@
     <Compile Include="Migrations\201706281757378_initialDB.Designer.cs">
       <DependentUpon>201706281757378_initialDB.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201706291418313_AddErrorTable.cs" />
+    <Compile Include="Migrations\201706291418313_AddErrorTable.Designer.cs">
+      <DependentUpon>201706291418313_AddErrorTable.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\ErrorRepository.cs" />
     <Compile Include="Repositories\FirstNumberRepository.cs" />
     <Compile Include="Repositories\SimNetworkRepository.cs" />
     <Compile Include="ShopSimDbContext.cs" />
@@ -81,6 +87,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201706281757378_initialDB.resx">
       <DependentUpon>201706281757378_initialDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201706291418313_AddErrorTable.resx">
+      <DependentUpon>201706291418313_AddErrorTable.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

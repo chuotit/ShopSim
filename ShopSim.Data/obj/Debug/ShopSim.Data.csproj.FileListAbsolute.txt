@@ -15,3 +15,4 @@ E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\P
 E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Data\bin\Debug\ShopSim.Model.dll.config
 E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Data\obj\Debug\ShopSim.Data.Migrations.initialDB.resources
 E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Data\obj\Debug\ShopSim.Data.csproj.GenerateResource.Cache
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Data\obj\Debug\ShopSim.Data.Migrations.AddErrorTable.resources
