@@ -13,3 +13,7 @@ E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\P
 E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Service\obj\Debug\ShopSim.Service.pdb
 E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Service\bin\Debug\EntityFramework.dll
 E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Service\bin\Debug\EntityFramework.xml
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml

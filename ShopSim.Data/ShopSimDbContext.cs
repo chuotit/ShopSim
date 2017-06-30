@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data.Entity;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Data.Entity;
+using Microsoft.AspNet.Identity.EntityFramework;
 using ShopSim.Model.Models;
 
 namespace ShopSim.Data
 {
-    public class ShopSimDbContext: DbContext
+    public class ShopSimDbContext : IdentityDbContext<ApplicationUser>
     {
         public ShopSimDbContext() : base("ShopSimConnect")
         {
@@ -20,9 +16,15 @@ namespace ShopSim.Data
         public DbSet<FirstNumber> FirstNumbers { set; get; }
         public DbSet<Error> Errors { set; get; }
 
-        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        public static ShopSimDbContext Create()
         {
-            //base.OnModelCreating(modelBuilder);
+            return new ShopSimDbContext();
+        }
+
+        protected override void OnModelCreating(DbModelBuilder builder)
+        {
+            builder.Entity<IdentityUserRole>().HasKey(i => new { i.UserId, i.RoleId });
+            builder.Entity<IdentityUserLogin>().HasKey(i => i.UserId);
         }
     }
 }
