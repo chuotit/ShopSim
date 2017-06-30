@@ -85,3 +85,17 @@ E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\P
 E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.UnitTest\bin\Debug\Autofac.Integration.WebApi.xml
 E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.UnitTest\bin\Debug\AutoMapper.dll
 E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.UnitTest\bin\Debug\AutoMapper.xml
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.UnitTest\bin\Debug\Microsoft.Owin.Security.dll
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.UnitTest\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.UnitTest\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.UnitTest\bin\Debug\Microsoft.Owin.Security.xml
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.UnitTest\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.UnitTest\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\Study\TEDU - Project with WebAPI, AngularJS và Entity Framework Code First\Practices\ShopSim\ShopSim.UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
